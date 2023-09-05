@@ -1,5 +1,6 @@
 hello world
 hello world  
 嘿嘿 嘎嘎
-切换到hot-fix上了 合并了
+hot-fix上了 合并了
 修改了master
+合并了 解决冲突吧
